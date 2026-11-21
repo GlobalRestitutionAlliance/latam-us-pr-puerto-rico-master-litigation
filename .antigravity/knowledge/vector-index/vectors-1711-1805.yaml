@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Puerto Rico
+  iso: PR
+  block: 19
+  range: [1711,1805]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "PR-V-1711"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1712"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1713"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1714"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1715"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1716"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1717"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1718"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1719"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1720"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1721"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1722"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1723"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1724"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1725"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1726"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1727"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1728"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1729"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1730"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1731"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1732"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1733"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1734"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1735"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1736"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1737"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1738"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1739"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1740"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1741"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1742"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1743"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1744"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1745"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1746"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1747"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1748"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1749"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1750"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1751"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1752"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1753"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1754"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1755"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1756"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1757"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1758"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1759"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1760"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1761"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1762"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1763"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1764"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1765"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1766"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1767"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1768"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1769"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1770"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1771"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1772"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1773"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1774"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1775"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1776"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1777"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1778"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1779"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1780"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1781"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1782"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1783"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1784"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1785"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1786"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1787"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1788"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1789"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1790"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1791"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1792"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1793"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1794"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1795"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1796"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1797"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1798"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1799"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1800"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1801"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1802"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1803"
+      anchor: "Hurricane Maria response and infrastructure recovery"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1804"
+      anchor: "1898 cession and territorial status (public legal record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "PR-V-1805"
+      anchor: "PROMESA/FOMB fiscal oversight (public record)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+PR-BAN-01,Banking and Sanctions Compliance,1898 cession and territorial status (public legal record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PR-BAN-02,Banking and Sanctions Compliance,PROMESA/FOMB fiscal oversight (public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PR-BAN-03,Banking and Sanctions Compliance,Hurricane Maria response and infrastructure recovery,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PR-BAN-04,Banking and Sanctions Compliance,1898 cession and territorial status (public legal record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+PR-BAN-05,Banking and Sanctions Compliance,PROMESA/FOMB fiscal oversight (public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
