@@ -1,0 +1,17 @@
+{
+  "url": "https://www.archives.gov/research/guide-fed-records/groups/186.html",
+  "final_url": "https://www.archives.gov/research/guide-fed-records/groups/186.html",
+  "title": "National Archives - Puerto Rico",
+  "fetched_at": "2026-11-23T14:28:36.623886Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 38010,
+  "sha256": "5c9711c0b2c2824e6067923c28e7114ddcbc0f236acf34d5c80f3c2725f13ee4",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
