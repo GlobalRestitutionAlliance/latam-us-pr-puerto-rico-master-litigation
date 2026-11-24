@@ -30,10 +30,5 @@
     "X-Amz-Cf-Pop": "MIA50-P3",
     "X-Amz-Cf-Id": "oV4--bib7TP-F1SEWqIIw59M9d3pJiUVN3jQvzTbATcAKqbYK6Kt3A==",
     "Age": "133"
-  },
-  "http_status": 200,
-  "fetched_at": "2026-11-21T18:29:34.523628Z",
-  "substantive": true,
-  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
-  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+  }
 }
